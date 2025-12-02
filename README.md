@@ -1,5 +1,12 @@
 # 📝 Form Validation Project
 
+<p>
+  <img src="https://img.shields.io/badge/HTML-5-orange?logo=html5" />
+  <img src="https://img.shields.io/badge/CSS-3-blue?logo=css3" />
+  <img src="https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript" />
+  <img src="https://img.shields.io/badge/Project-Form%20Validation-success" />
+</p>
+
 This project is a **client-side form validation system** built using **HTML, CSS, and JavaScript**.  
 It validates user input in a web form (such as name, email, password, phone, etc.) and displays clear error messages to ensure data is entered correctly before submission.
 
@@ -29,6 +36,7 @@ This project was built as part of my **internship**, focusing on writing clean, 
 - **JavaScript** – All validation logic and DOM manipulation  
 
 ---
+
 📁 Project Structure
 
 form-validation-project/
@@ -36,6 +44,8 @@ form-validation-project/
 │── style.css → Styles for the form
 │── script.js → Validation logic
 └── README.md → Project documentation
+
+---
 
 📂 File Details
 
@@ -47,6 +57,8 @@ script.js — Includes all validation rules and logic
 
 README.md — Documentation explaining the project
 
+---
+
 🎯 Internship Context
 
 This project was created as part of my internship, focusing on:
@@ -56,6 +68,8 @@ Writing clean and reusable validation functions
 Handling multiple edge cases in user input
 
 Improving form usability and error feedback
+
+---
 
 👨‍💻 Author
 
