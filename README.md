@@ -38,3 +38,17 @@ form-validation-project/
 ├── style.css           # Styles for the form
 ├── script.js           # Validation logic
 └── README.md           # Project documentation
+
+🎯 Internship Context
+
+This project was created as part of my internship, focusing on:
+
+Writing clean and reusable validation functions
+
+Handling multiple edge cases in user input
+
+Improving form usability and error feedback
+👨‍💻 Author
+
+BAAVIKALA JAGADEESWAR REDDY
+GitHub: @Jagadeeswarreddybaavikala
