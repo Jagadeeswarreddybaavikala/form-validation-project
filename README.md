@@ -1,3 +1,5 @@
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:00A8E8,100:0077B6&height=150&section=header&text=Form%20Validation%20Project&fontSize=32&fontColor=ffffff&animation=fadeIn)
+
 # 📝 Form Validation Project
 
 <p>
