@@ -29,15 +29,23 @@ This project was built as part of my **internship**, focusing on writing clean, 
 - **JavaScript** – All validation logic and DOM manipulation  
 
 ---
+📁 Project Structure
 
-## 📁 Project Structure
-
-```bash
 form-validation-project/
-├── index.html          # Main form page
-├── style.css           # Styles for the form
-├── script.js           # Validation logic
-└── README.md           # Project documentation
+│── index.html → Main form page
+│── style.css → Styles for the form
+│── script.js → Validation logic
+└── README.md → Project documentation
+
+📂 File Details
+
+index.html — Contains the form structure and UI layout
+
+style.css — Defines styling, colors, spacing, and responsive layout
+
+script.js — Includes all validation rules and logic
+
+README.md — Documentation explaining the project
 
 🎯 Internship Context
 
@@ -48,7 +56,20 @@ Writing clean and reusable validation functions
 Handling multiple edge cases in user input
 
 Improving form usability and error feedback
+
 👨‍💻 Author
 
 BAAVIKALA JAGADEESWAR REDDY
 GitHub: @Jagadeeswarreddybaavikala
+
+
+
+
+
+
+
+
+
+
+
+
